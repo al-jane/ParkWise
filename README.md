@@ -2,7 +2,7 @@
 
 **Parking Management System**
 
-ParkWise is a web-based parking management system designed to help operators manage parking facilities efficiently — from real-time space monitoring to billing and reservations, all in one dashboard.
+ParkWise is a parking management system designed to help operators manage parking facilities efficiently — from real-time space monitoring to billing and reservations, all in one dashboard.
 
 ## Table of Contents
 
